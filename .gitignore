@@ -1,0 +1,35 @@
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore user-specific files and folders
+.bash_history
+.cache/
+.conda/
+.ipython/
+.jupyter/
+.local/
+.npm/
+.config/
+
+# Ignore pytest cache
+.pytest_cache/
+
+# Preprocessed data
+*.csv
+
+# images
+*.png
+
+# models
+*.pkl

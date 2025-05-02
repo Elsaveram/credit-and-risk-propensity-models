@@ -1,0 +1,11 @@
+services:
+
+  jupyter:
+    build: notebooks
+    ports:
+      - '8888:8888'
+    volumes: 
+      - .:/home/jovyan/
+
+
+    
