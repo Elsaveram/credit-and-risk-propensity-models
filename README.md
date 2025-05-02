@@ -18,7 +18,7 @@ Additional analyses:
 - **Fairness Audit** using the 4/5-Rule Disparate Impact  
 - **Temporal Drift Validation** proposal (out-of-time testing & PSI)
 
-A PowerPoint deck (`presentation.pptx`) at the repository root walks through the business context, methods, key results and next steps.
+A PowerPoint deck (`modelos_riesgo_y_propension.pptx`) at the repository root walks through the business context, methods, key results and next steps.
 
 ---
 
