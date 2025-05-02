@@ -27,9 +27,6 @@ A PowerPoint deck (`modelos_riesgo_y_propension.pptx`) at the repository root wa
 - **notebooks/**  
   Contains `risk_propensity_audit.ipynb`, a self-contained workflow covering data prep, feature engineering, model training, fairness checks and drift-analysis approach.
 
-- **models/**  
-  Intended for storing tuned model pickles for quick loading (not committed here).
-
 - **Dockerfile & docker-compose.yml**  
   Define a container with all required dependencies so you can run the notebook in a reproducible environment.
 
