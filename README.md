@@ -48,8 +48,8 @@ A PowerPoint deck (`modelos_riesgo_y_propension.pptx`) at the repository root wa
 
 1. **Clone the repository**  
    ```bash
-   git clone <repo-url>
-   cd <repo>
+   git clone git@github.com:Elsaveram/credit-and-risk-propensity-models.git
+   cd credit-and-risk-propensity-models
 
 
 2. Launch the Jupyter Notebook service:
